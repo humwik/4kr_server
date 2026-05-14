@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic[email]
+pytest
+pytest-asyncio
+httpx
+faker
+python-dotenv
